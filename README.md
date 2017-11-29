@@ -19,3 +19,7 @@ You can contribute by two ways:
 ### Issue
 
 - Feel free to open an [issue](https://github.com/VentronOS/verona/issues/new) if you have any suggestions to make Verona better.
+
+
+## Copyright and license
+Code copyright 2017 Ventron. Code released under the MIT license.
